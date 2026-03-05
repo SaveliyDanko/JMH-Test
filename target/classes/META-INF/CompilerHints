@@ -1,0 +1,15 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,org/savadanko/HashTableBenchmark.customOpt_getHit
+inline,org/savadanko/HashTableBenchmark.customOpt_getMiss
+inline,org/savadanko/HashTableBenchmark.customOpt_putUpdate
+inline,org/savadanko/HashTableBenchmark.custom_getHit
+inline,org/savadanko/HashTableBenchmark.custom_getMiss
+inline,org/savadanko/HashTableBenchmark.custom_putUpdate
+inline,org/savadanko/HashTableBenchmark.jdk_getHit
+inline,org/savadanko/HashTableBenchmark.jdk_getMiss
+inline,org/savadanko/HashTableBenchmark.jdk_putUpdate
+inline,org/savadanko/HashTableBenchmark.setup
